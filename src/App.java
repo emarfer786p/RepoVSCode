@@ -7,5 +7,7 @@ public class App {
 
         int result  = a+b;
         System.out.println(result);
+
+        System.out.println("Prueba");
     }
 }
